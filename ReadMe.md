@@ -8,4 +8,4 @@ Requires PHP's error reporting set to anything other than zero. Also requires th
 
 # Questions or Comments?
 
-Email: tom@visfx.com
+Email: tom@visfx.me
